@@ -1,0 +1,10 @@
+name: MyViews
+description: Views
+type: module
+core: 8.x
+dependencies:
+  - node
+  - text
+  - user
+  - views
+version: 8.x-1.0
